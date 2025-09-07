@@ -13,7 +13,7 @@ Hourly forecasts help you track changes throughout the day.
 
 A minimalist and user-friendly UI ensures a smooth experience.
 
-✨ Features
+✨ Features:
 
 🌍 Location-based real-time weather
 
@@ -21,14 +21,15 @@ A minimalist and user-friendly UI ensures a smooth experience.
 
 🎨 Animated and responsive UI 
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 Flutter & Dart
 
 Geolocator (location)
 
 
-🚀 Installation
+🚀 Installation:
+
 git clone 
 cd Clima_weather_app
 flutter pub get
